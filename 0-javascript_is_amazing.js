@@ -1,4 +1,2 @@
-
-console.log("C is fun");
-console.log("python is cool");
-console.log("javascript is amazing")
+const myVar = ('Javascript is amazing');
+console.log(myVar);
